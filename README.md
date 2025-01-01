@@ -18,30 +18,33 @@
 - ~~make polybar launch script works.~~
 - ~~edit polybar~~.
 - ~~SCREENSHOTS!~~
-- sound output settings in polybar
+- ~~sound output settings in polybar~~
 
 
 ## softwares needed in arch:
 
 - dotfiles:
     - .config/i3
+    - .config/kitty
     - .config/polybar
     - .config/rofi
-    - .config/kitty
+    - .config/picom
     - ~/.zsh
 - pacman:
     - nvim 
-    - lightdm lightdm-grk-greeter
+    - lightdm lightdm-gtk-greeter
     - i3
     - kitty
+    - stow
     - polybar
     - picom
     - rofi
-    - feh
+    - feh  
     - firefox
     - unzip
     - xorg-xrandr
     - bluez 
     - bluez-utils
     - autorandr
+    - pavucontrol
 - fonts.
