@@ -42,6 +42,7 @@
     - feh  
     - firefox
     - unzip
+    - less
     - xorg-xrandr
     - bluez 
     - bluez-utils
